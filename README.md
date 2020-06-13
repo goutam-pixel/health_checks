@@ -1,2 +1,2 @@
 # health_checks
-Health_check repo is used to check computer cpu,hard-dsk ,network and so on!!
+I am editing the README file. Adding some more details about the project description.
