@@ -1,7 +1,7 @@
 import psutil
 import shutil
 
-def d,check_isk_usage(disk):
+def check_disk_usage(disk):
   du=shutil.disk_usage(disk)
   free=du.free/du.total *100
   return free > 20
